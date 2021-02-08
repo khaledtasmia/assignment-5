@@ -9,3 +9,9 @@ body{
     width: 50%;
     text-align: center;
 }
+#food-container img{
+    width: 200px;
+}
+#food-container h3{
+    font-size: 20px;
+}
